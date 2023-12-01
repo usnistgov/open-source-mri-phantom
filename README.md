@@ -5,10 +5,10 @@ Repository to host the open-source NIST phantom.
 ## CAD Files for 3D Printing
 
 STL files that can be used for 3d printing are located in the 
-[stl-files](https://gitlab.nist.gov/gitlab/kvj/open-source-nist-phantom/-/tree/main/stl-files) directory.
+[stl-files](https://github.com/usnistgov/open-source-mri-phantom/tree/main/stl-files) directory.
 
 Files that can be used for modifying the CAD design of the phantom are located in the 
-[stp-files](https://gitlab.nist.gov/gitlab/kvj/open-source-nist-phantom/-/tree/main/stp-files) directory.
+[stp-files](https://github.com/usnistgov/open-source-mri-phantom/tree/main/stp-files) directory.
 
 ## Components
 Additional components for the phantom can be found at:
