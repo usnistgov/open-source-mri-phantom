@@ -5,13 +5,16 @@ Repository to host the open-source NIST phantom.
 ## CAD Files for 3D Printing
 
 STL files that can be used for 3d printing are located in the 
-[stl-files](https://github.com/usnistgov/open-source-mri-phantom/tree/main/stl-files) directory.
+[stl-files](https://github.com/kalinared/open-source-nist-phantom/tree/main/stl-files) directory.
 
 Files that can be used for modifying the CAD design of the phantom are located in the 
-[stp-files](https://github.com/usnistgov/open-source-mri-phantom/tree/main/stp-files) directory.
+[stp-files](https://github.com/kalinared/open-source-nist-phantom/tree/main/stp-files) directory.
+
+Fusion 360 files that can be used for modifying the CAD design of the phantom are located in the 
+[f3d-files](https://github.com/kalinared/open-source-nist-phantom/tree/main/f3d-files) directory.
 
 ## Components
-Additional components for the phantom can be found at:
+A bill of materials is included in this repository. Specifically, additional components for the phantom can be found at:
 * 1x [Oil-Resistant Buna-N O-Ring, 4 mm Wide, 155 mm Inner Diameter](https://www.mcmaster.com/1302N303/)
 * 10x [Nylon Plastic Socket Head Screw, M4 x 0.70 mm Thread, 14 mm Long](https://www.mcmaster.com/93640A129/)
 * Fill plug, either of:
@@ -37,6 +40,10 @@ layer. [Plasti Dip](https://plastidip.com/our-products/plasti-dip/) can work wel
 1. The bolt holes and fill port may need to be expanded if the 3D print resulted in a narrower hole. If so, drill out
 the holes using the tools described above.
 1. Tap the bolt holes and fill port.
+
+
+## Software
+Python code to analyze geometric distortion, snr, and cnr is provided in the [python](https://github.com/kalinared/open-source-nist-phantom/tree/main/python) directory.
 
 ---
 
