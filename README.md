@@ -5,13 +5,13 @@ Repository to host the open-source NIST phantom.
 ## CAD Files for 3D Printing
 
 STL files that can be used for 3d printing are located in the 
-[stl-files](https://github.com/kalinared/open-source-nist-phantom/tree/main/stl-files) directory.
+[stl-files](https://github.com/usnistgov/open-source-mri-phantom/tree/main/stl-files) directory.
 
 Files that can be used for modifying the CAD design of the phantom are located in the 
-[stp-files](https://github.com/kalinared/open-source-nist-phantom/tree/main/stp-files) directory.
+[stp-files](https://github.com/usnistgov/open-source-mri-phantom/tree/main/stp-files) directory.
 
 Fusion 360 files that can be used for modifying the CAD design of the phantom are located in the 
-[f3d-files](https://github.com/kalinared/open-source-nist-phantom/tree/main/f3d-files) directory.
+[f3d-files](https://github.com/usnistgov/open-source-mri-phantom/tree/main/f3d-files) directory.
 
 ## Components
 A bill of materials is included in this repository. Specifically, additional components for the phantom can be found at:
@@ -43,7 +43,7 @@ the holes using the tools described above.
 
 
 ## Software
-Python code to analyze geometric distortion, snr, and cnr is provided in the [python](https://github.com/kalinared/open-source-nist-phantom/tree/main/python) directory.
+Python code to analyze geometric distortion, snr, and cnr is provided in the [python](https://github.com/usnistgov/open-source-mri-phantom/tree/main/python) directory.
 
 ---
 
